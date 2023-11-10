@@ -1,0 +1,12 @@
+body{
+    background-image: url(wp12000402-cyberpunk-landscape-wallpapers.jpg);
+    background-size: 115%;
+}
+
+.flex-container {
+        display: flex;
+        align-items: center; /* Items are centered along the cross axis */
+        font-size: 30px;
+        background-color:rgba(0, 0, 0, 0.371);
+        color: white;
+   }
